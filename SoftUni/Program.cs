@@ -1,0 +1,1 @@
+﻿int speed = int.Parse(Console.ReadLine());
