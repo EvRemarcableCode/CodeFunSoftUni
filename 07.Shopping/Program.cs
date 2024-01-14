@@ -10,7 +10,7 @@ double totalPrice = videoCardPrice + cpuPrice + ramPrice;
 
 if (videoCardPrice > cpuPrice)
 {
-    totalPrice = totalPrice * discount;
+    totalPrice = totalPrice - totalPrice * discount;
 }
 
 if (userBudget >= totalPrice)
