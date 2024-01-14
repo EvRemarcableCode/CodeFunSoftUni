@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{DA989F62-08DF-482C-804E-2220BAC9B98F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Shopping", "07.Shopping\07.Shopping.csproj", "{BCF0DADB-7832-43B9-9E15-625554DD619A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D17D41C1-0B66-4BE1-88FC-DC740460404E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{DA989F62-08DF-482C-804E-2220BAC9B98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA989F62-08DF-482C-804E-2220BAC9B98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA989F62-08DF-482C-804E-2220BAC9B98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF0DADB-7832-43B9-9E15-625554DD619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF0DADB-7832-43B9-9E15-625554DD619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF0DADB-7832-43B9-9E15-625554DD619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF0DADB-7832-43B9-9E15-625554DD619A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17D41C1-0B66-4BE1-88FC-DC740460404E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17D41C1-0B66-4BE1-88FC-DC740460404E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17D41C1-0B66-4BE1-88FC-DC740460404E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17D41C1-0B66-4BE1-88FC-DC740460404E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
